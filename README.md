@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobbyFranc
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Fullstack
+- 🌱 I’m currently learning Frontend_dev
 - 💞️ I’m looking to collaborate on any available projects
 - 📫 How to reach me? Check with tobbyfranc@gmail.com
 
