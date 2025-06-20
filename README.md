@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TobbyFranc
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Frontend_dev
-- 💞️ I’m looking to collaborate on any available projects
+- 👀 I do Tech (...and a bit of medic on the side)
+- 🌱 I’m a Frontend_dev
+- 💞️ Hit me up for collaboration on any available projects
 - 📫 How to reach me? Check with tobbyfranc@gmail.com
 
 <!---
